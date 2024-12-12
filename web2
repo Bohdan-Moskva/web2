@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html" charset="UTF-8">
+    <meta name="description" content="Лабораторна №2">
+    <meta name="author" content="Студент групи КН-31заоч, Москва Богдан">
+    <meta name="keywords" content="HTML, web, дизайн">
+    <title>Лабораторна №2</title>
+</head>
+<body>
+
+<h1>Це майже найпростіший приклад HTML-документа</h1>
+
+<p align="right"><strong>Lorem</strong> <del>Ipsum</del> is simply dummy text of the printing and typesetting <tt>industry</tt>.</p>
+
+<p align="center"><strong>Lorem</strong> <del>Ipsum</del> has been the industry's standard dummy text ever since the 1500s,
+    when an unknown printer took a galley of type and scrambled it to make a type specimen <tt>book</tt>.</p>
+
+<p align="left"><strong>It</strong> <del>has</del> survived not only five centuries,
+    but also the leap into electronic typesetting, remaining essentially <tt>unchanged</tt>.</p>
+
+<p align="justify"><strong>It</strong> <del>was</del> popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem <tt>Ipsum</tt>.</p>
+
+&reg; &copy; &darr; &pi; &lambda; &trade;
+</body>
+</html>
